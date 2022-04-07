@@ -2,6 +2,7 @@
 *.pyc
 *~
 __pycache__
+__pycache__/
 mysite/__pycache__
 blog/__pycache__
 blog/migrations/__pycache__
